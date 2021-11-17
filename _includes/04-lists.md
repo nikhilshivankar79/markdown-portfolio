@@ -1,8 +1,1 @@
-A lists of my favorite songs:
-* 🐈
-* 🐕
-
-In ordere, there are my favorite flavours of ice cream:
-1.  choclate 
-2.  butterscotch
-3.  strawberry
+I like to **code*8 and  I like to __live stream_ and if I am __coding__ on a *live stream* them I,m __*Live Coding*__
